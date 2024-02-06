@@ -6,7 +6,7 @@ Skills: JAVA/ HTML / CSS/ JS/ C#
 - 🌱 I’m currently learning JAVA, JS and PYTHON
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ferana-rouhi-maleki-120211288//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/feranarouhi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roohiii_/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/feranarouhi/)  
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feranarouhi&show_icons=true&theme=radical)

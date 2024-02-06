@@ -6,4 +6,4 @@ While web development is my current focus, I remain open to exploring and diving
 fields to broaden my expertise. Excited about the endless possibilities within the realm of programming,
 I'm always ready for new challenges and learning opportunities.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferana)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feranarouhi)](https://github.com/anuraghazra/github-readme-stats)

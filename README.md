@@ -3,7 +3,8 @@ Ferana Rouhi from Canada, a junior programmer with almost 2 years of experience 
 
 Skills: JAVA/ HTML / CSS/ JS/ C#/ PYTHON
 
-- 🌱 I’m currently learning JAVA, JS/ PYTHON and Spring
+- 🌱 I’m currently learning JAVA, JS/ PYTHON and SPRING
+- 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roohiii_/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/feranarouhi/)  

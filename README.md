@@ -3,7 +3,7 @@ Ferana Rouhi from Canada, a  programmer with almost 2 years of experience in HTM
 
 Skills: JAVA/ HTML / CSS/ JS/ C#/ PYTHON
 
-- 🌱 I’m currently learning JAVA, JS/ PYTHON and SPRING
+- 🌱 I’m currently learning JAVA, JS/ PYTHON/ REACT and SPRING
 - 
 
 

@@ -18,9 +18,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=feranarouhi&show_icons=true&locale=en&layout=compact" alt="feranarouhi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feranarouhi&show_icons=true&locale=en" alt="feranarouhi" /></p>
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feranarouhi&" alt="feranarouhi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feranarouhi&" alt="feranarouhi" /></p>
+</div>
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=feranarouhi)

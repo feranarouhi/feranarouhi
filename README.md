@@ -2,9 +2,10 @@
 <h3 align="center">A passionate web developer from Toronto</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=feranarouhi&label=Profile%20views&color=0e75b6&style=flat" alt="feranarouhi" /> </p>
-- 🌱 I’m currently learning **spring, 3D.js, js and Node.js .**
+<p>
+- 🌱 I’m currently learning **spring, 3D.js, js and Node.js .
 - 🌱 I'm actively seeking opportunities to contribute and collaborate on project
-- 
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/feranarouhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feranarouhi" height="30" width="40" /></a>

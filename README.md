@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=feranarouhi&label=Profile%20views&color=0e75b6&style=flat" alt="feranarouhi" /> </p>
 <p>
-- 🌱 I’m currently learning **spring, 3D.js, js and Node.js .
+- 🌱 I’m currently learning **spring, 3D.js, js and Node.js . <\br>
 - 🌱 I'm actively seeking opportunities to contribute and collaborate on project
 </p>
 <h3 align="center">Connect with me:</h3>
